@@ -1,3 +1,9 @@
+<div align="center">
+ <a href="https://github.com/emree-sen">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Kutay+Can+Batur+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
+
 # ⚜ About Me:
 🌱 I am a passionate Computer Engineering student dedicated to continuously learning new things. With a strong drive for innovation and problem-solving, I thrive on exploring the latest technologies and expanding my skill set.
 
